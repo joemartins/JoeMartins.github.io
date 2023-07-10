@@ -2407,9 +2407,11 @@ a:hover {
   padding-right: 0;
 }
 
+/* WORK IMAGES HERE */
+
 .thumb_holder {
   opacity: 1;
-  background-image: url("https://uploads-ssl.webflow.com/64a5cdfcfc32850bec617335/64ac3c4286014bd3a50de6a0_pic01.jpg");
+  background-image: url("./images/pic01.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
